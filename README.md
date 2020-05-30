@@ -14,14 +14,14 @@ Quickly-made TOX that takes the information from a pixel of the panel and provid
 #### drmbt edit
 Cool tool hopeliz! I've needed something like this a few times and always half assed what I ended up with, so I'm grateful that you shared something like this. I hacked it a bit to fit the way i would work with it at the panel level in a project, and added a few feauters 
 
--adapted custom tox to pass the signal through and output to TOP CHOP and DAT space
--movie file in is now feeding an In TOP, which provides resolution
--Math method updated to range
--Labeled tops that feed a data reference
--Field can now be driven from custom parameters
--panel gets adjustable border for visual feedback of sampled color
--hold method eliminated, sampling is from panel uv while selected
+- [ ]adapted custom tox to pass the signal through and output to TOP CHOP and DAT space
+- [ ]movie file in is now feeding an In TOP, which provides resolution
+- [ ]Math method updated to range
+- [ ]Labeled tops that feed a data reference
+- [ ]Field can now be driven from custom parameters
+- [ ]panel gets adjustable border for visual feedback of sampled color
+- [ ]hold method eliminated, sampling is from panel uv while selected
 
 #### TO DO
--maybe add some analysis top information about averages in the input
--add luminousity conversion
+- [ ]maybe add some analysis top information about averages in the input
+- [ ]add luminousity conversion
